@@ -1,0 +1,11 @@
+*.pyc
+*.*.pyc
+__pycache__
+__pycache__/*
+*/__pycache__
+.vscode
+
+*.npy
+dataset/MNIST-BIASED/MNIST*
+exps
+run.sh
